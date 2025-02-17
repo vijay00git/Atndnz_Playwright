@@ -1,0 +1,19 @@
+{
+    "validUser": {
+      "email": "admin@sequoiaat.com",
+      "password": "Admin@1809!@#"
+    },
+    "invalidUser": {
+      "email": "invaliduser@example.com",
+      "password": "wrongPassword"
+    },
+    "invalidmail": {
+      "email": "vijaytest5555@gmail",
+      "password": "wrongPassword"
+    },
+    "notRegisteredMail": {
+      "email": "vijaytest5555@gmail.com",
+      "password": "wrongPassword"
+    }
+  }
+  

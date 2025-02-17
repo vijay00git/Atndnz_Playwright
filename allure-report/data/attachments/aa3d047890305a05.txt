@@ -1,0 +1,4 @@
+Login completed successfully
+URL redireected to Employees page successfully
+Employee ID, Full Name, Email, Contact number, Location name, Action and Email verification status coloumns are displayed
+🧹 Cleaning up after each test...

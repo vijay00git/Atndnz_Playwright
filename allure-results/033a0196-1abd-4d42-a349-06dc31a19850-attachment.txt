@@ -1,0 +1,14 @@
+API response validated successfully: {
+  responseCode: 200,
+  responseMessage: 'Success',
+  outputData: {
+    tenantID: 'tenant_sequoiaat',
+    userID: 1,
+    userRole: 'admin',
+    email: 'admin@sequoiaat.com',
+    companyName: 'Sequoia Applied Technologies',
+    employeePresent: true,
+    locationPresent: true,
+    username: ''
+  }
+}

@@ -1,0 +1,4 @@
+Login completed successfully
+URL redireected to 'Report >> Attendence_log' successfully
+Employee ID, Employee Name, Entry-gate, Exit-gate, Entry-time, Exit-time and Working Hours coloumns are displayed
+🧹 Cleaning up after each test...

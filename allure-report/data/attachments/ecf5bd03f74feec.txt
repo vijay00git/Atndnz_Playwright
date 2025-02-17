@@ -1,0 +1,4 @@
+The page is still on the same URL.
+'Forgot password' text is showing
+Send OTP Button is displayed
+🧹 Cleaning up after each test...
