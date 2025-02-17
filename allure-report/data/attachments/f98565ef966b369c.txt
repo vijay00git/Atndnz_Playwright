@@ -1,4 +1,0 @@
-Login completed successfully
-URL redireected to 'Report >> Attendence_log' successfully
-"Attendance Log", "Export CSV" are displayed
-🧹 Cleaning up after each test...

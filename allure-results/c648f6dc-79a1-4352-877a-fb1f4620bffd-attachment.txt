@@ -1,3 +1,0 @@
-Login completed successfully
-URL redireected to Employees page successfully
-🧹 Cleaning up after each test...

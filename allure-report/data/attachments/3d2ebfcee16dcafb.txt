@@ -1,4 +1,0 @@
-Error Message Displayed: Company not yet registered
-
-
-🧹 Cleaning up after each test...

@@ -1,2 +1,0 @@
-Login completed successfully
-URL redireected to 'Report >> Attendence_summary' successfully
